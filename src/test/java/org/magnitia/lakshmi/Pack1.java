@@ -1,4 +1,4 @@
-package org.magnitia.nag6;
+package org.magnitia.lakshmi;
 
 public class Pack1 {
 
